@@ -1,2 +1,2 @@
 # bbs
-Brown Bag Seminars
+IOS Brown Bag Seminars https://ioskn.github.io/bbs/
