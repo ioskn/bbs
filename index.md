@@ -42,8 +42,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> Matthias (Franz) </td>
   <td> Deep Learning in Middle earth </td>
   <td>
-    <a href="">slides</a></br>
-    code: <a href="TODO">nb</a>,<a href="TODO">env</a>
+    <a href="">slides TODO</a></br>
   </td>
 </tr>
 </table>
