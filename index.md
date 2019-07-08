@@ -6,7 +6,7 @@ title: IOS Brown Bag Seminars
 <h3>IOS Brown Bag Seminars</h3>
 
 <ul>
-	<li/>Termin etwa alle 3 Wochen Mittwoch von 12 bis 13</a> 
+	<li/>Termin etwa alle 3 Wochen Mittwoch von 12 bis 13
 	<li/>Perfekt gestylten Power-Points sind nicht nötig, Tafel tut's auch
 	<li/>Die Vortragenden müssen keine Experten sein, dumme Fragen sind erwünscht
 	<li/>Keine Marketing-Veranstaltung 
@@ -24,7 +24,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> When </td>
   <td> You    </td>
   <td> Title  </td>
-  <td> slides </td>
+  <td> Material </td>
 </tr>
 <!---------------->
 
