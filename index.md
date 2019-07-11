@@ -29,6 +29,15 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 <!---------------->
 
 <tr>
+  <td> 22. July 2019</td>
+  <td> Rebekka </td>
+  <td> Pedestrian flow </td>
+  <td>
+    <a href="files/TODO">slides TODO</a>,
+  </td>
+</tr>
+
+<tr>
   <td> 8. July 2019</td>
   <td> Matthias (Herrman) </td>
   <td> Probabilistic PCA </td>
