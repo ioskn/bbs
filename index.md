@@ -26,6 +26,19 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> Title  </td>
   <td> Material </td>
 </tr>
+
+
+<h3>Talks</h3>
+<table border="1">
+<tr>
+  <td> 7 August 2019 </td>
+  <td> Beate </td>
+  <td> An introduction to Probabilistic Deep Learning </td>
+  <td>
+    <a href="TODO">TODO</a>,
+  </td>
+  
+</tr>
 <!---------------->
 
 <tr>
@@ -33,7 +46,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> Rebekka </td>
   <td> Pedestrian flow </td>
   <td>
-    <a href="files/TODO">slides TODO</a>,
+    <a href="files/BrownBagpFlow.pdf">slides</a>,
   </td>
 </tr>
 
