@@ -35,7 +35,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> Beate </td>
   <td> An introduction to Probabilistic Deep Learning </td>
   <td>
-    <a href="TODO">TODO</a>,
+    <a href="files/intro-probabilistic-DL.pdf">slides</a>,
   </td>
   
 </tr>
