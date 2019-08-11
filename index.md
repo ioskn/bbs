@@ -18,6 +18,8 @@ Die ganze Veranstaltung lebt natürlich davon, dass Ihr mitmacht.
 Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder falls Ihr unbedingt mal was zu ... hören wollt.
 </em>
 
+Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorchiefs.github.io/bbs/
+
 <h3>Talks</h3>
 <table border="1">
 <tr>
@@ -28,14 +30,13 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 </tr>
 
 
-<h3>Talks</h3>
 <table border="1">
 <tr>
   <td> 7 August 2019 </td>
   <td> Beate </td>
   <td> An introduction to Probabilistic Deep Learning </td>
   <td>
-    <a href="files/intro-probabilistic-DL.pdf">slides</a>,
+    <a href="files/intro-probabilistic-DL.pdf">slides</a>
   </td>
   
 </tr>
@@ -46,7 +47,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> Rebekka </td>
   <td> Pedestrian flow </td>
   <td>
-    <a href="files/BrownBagpFlow.pdf">slides</a>,
+    <a href="files/BrownBagpFlow.pdf">slides</a>
   </td>
 </tr>
 
@@ -55,7 +56,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> Matthias (Herrman) </td>
   <td> Probabilistic PCA </td>
   <td>
-    <a href="files/TODO">slides TODO</a>,
+    <a href="files/Brown-Bag-Seminar-2019-Unsupervised-Machine-Learning-Optical-Surface-Inspection.pdf">slides </a>
   </td>
 </tr>
 
