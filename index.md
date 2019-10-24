@@ -29,6 +29,18 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   <td> Material </td>
 </tr>
 
+<h3>Talks</h3>
+<table border="1">
+<tr>
+  <td> 25.10.2020 </td>
+  <td> Oliver   </td>
+  <td> Go with Flows </td>
+   <td>
+    <a href="files/flows_bbs_as_hold_kn.pdf">slides</a>
+  </td>
+</tr>
+
+
 
 <table border="1">
 <tr>
