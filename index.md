@@ -29,8 +29,16 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   <td> Material </td>
 </tr>
 
-<h3>Talks</h3>
-<table border="1">
+<tr>
+  <td> 28.11.2020 </td>
+  <td> Mathias   </td>
+  <td> Geometric Deep Learning </td>
+   <td>
+    <a href="TODO">TODO</a>
+  </td>
+</tr>
+
+
 <tr>
   <td> 25.10.2020 </td>
   <td> Oliver   </td>
@@ -40,9 +48,6 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   </td>
 </tr>
 
-
-
-<table border="1">
 <tr>
   <td> 7 August 2019 </td>
   <td> Beate </td>
