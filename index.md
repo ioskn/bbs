@@ -34,7 +34,7 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   <td> Mathias   </td>
   <td> Geometric Deep Learning </td>
    <td>
-    <a href="files/IOS-brown-bag-Geometric-Deep-Learning">slides</a>
+    <a href="files/IOS-brown-bag-Geometric-Deep-Learning.pdf">slides</a>
   </td>
 </tr>
 
