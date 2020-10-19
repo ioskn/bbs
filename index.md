@@ -6,7 +6,7 @@ title: IOS Brown Bag Seminars
 <h3>IOS Brown Bag Seminars</h3>
 
 <ul>
-	<li/>Termin etwa alle 3 Wochen Mittwoch von 12 bis 13
+	<li/>Wanted: Talks zu Methoden, Papers, Erfahrungen auf Konferenzen, Ideen, ... 
 	<li/>Perfekt gestylten Power-Points sind nicht nötig, Tafel tut's auch
 	<li/>Die Vortragenden müssen keine Experten sein, dumme Fragen sind erwünscht
 	<li/>Keine Marketing-Veranstaltung 
@@ -14,8 +14,7 @@ title: IOS Brown Bag Seminars
 </ul>
 <br>
 <em> 
-Die ganze Veranstaltung lebt natürlich davon, dass Ihr mitmacht. 
-Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder falls Ihr unbedingt mal was zu ... hören wollt.
+Die ganze Veranstaltung lebt natürlich davon, dass Ihr mitmacht. Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder falls Ihr unbedingt mal was zu ... hören wollt.
 </em>
 
 Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorchiefs.github.io/bbs/
