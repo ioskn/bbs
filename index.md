@@ -30,7 +30,7 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 	
 <tr>
   <td> 26.11.2020 </td>
-  <td> Mathias Hermann   </td>
+  <td> Matthias Hermann   </td>
   <td> Mutual Information </td>
    <td>
     <a href="files/IOS-brown-bag-mutual-information.pdf">slides</a>
@@ -39,7 +39,7 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 	
 <tr>
   <td> 28.11.2019 </td>
-  <td> Mathias Hermann   </td>
+  <td> Matthias Hermann   </td>
   <td> Geometric Deep Learning </td>
    <td>
     <a href="files/IOS-brown-bag-Geometric-Deep-Learning.pdf">slides</a>
