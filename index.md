@@ -27,10 +27,19 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   <td> Title  </td>
   <td> Material </td>
 </tr>
-
+	
 <tr>
-  <td> 28.11.2020 </td>
-  <td> Mathias   </td>
+  <td> 26.11.2020 </td>
+  <td> Mathias Hermann   </td>
+  <td> Mutual Information </td>
+   <td>
+    <a href="files/IOS-brown-bag-mutual-information.pdf">slides</a>
+  </td>
+</tr>
+	
+<tr>
+  <td> 28.11.2019 </td>
+  <td> Mathias Hermann   </td>
   <td> Geometric Deep Learning </td>
    <td>
     <a href="files/IOS-brown-bag-Geometric-Deep-Learning.pdf">slides</a>
@@ -39,7 +48,7 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 
 
 <tr>
-  <td> 25.10.2020 </td>
+  <td> 25.10.2019 </td>
   <td> Oliver   </td>
   <td> Go with Flows </td>
    <td>
@@ -69,7 +78,7 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 
 <tr>
   <td> 8. July 2019</td>
-  <td> Matthias (Herrman) </td>
+  <td> Matthias Hermann </td>
   <td> Probabilistic PCA </td>
   <td>
     <a href="files/Brown-Bag-Seminar-2019-Unsupervised-Machine-Learning-Optical-Surface-Inspection.pdf">slides </a>
