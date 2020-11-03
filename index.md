@@ -36,6 +36,15 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
     <a href="files/IOS-brown-bag-mutual-information.pdf">slides</a>
   </td>
 </tr>
+
+<tr>
+  <td> 12.11.2020 </td>
+  <td> Daniel Dold </td>
+  <td> BNNs </td>
+   <td>
+    <a href="files/IOS-brown-bag-bayesian-neural-networks.pdf">slides</a>
+  </td>
+</tr>
 	
 <tr>
   <td> 28.11.2019 </td>
