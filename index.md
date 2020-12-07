@@ -29,11 +29,21 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 </tr>
 	
 <tr>
-  <td> 26.11.2020 </td>
+  <td> 30.11.2020 </td>
   <td> Matthias Hermann   </td>
   <td> Mutual Information </td>
    <td>
-    <a href="files/IOS-brown-bag-mutual-information.pdf">slides</a>
+    <a href="files/Brownbag%20on%20Mutual%20Information%20Short.pdf">slides</a>
+  </td>
+</tr>
+
+
+<tr>
+  <td> 26.11.2020 </td>
+  <td> Manuela Linke   </td>
+  <td> AI4Grids </td>
+   <td>
+    <a href="files/26112020_AI4Grids_Brownbag.pdf">slides</a>
   </td>
 </tr>
 
