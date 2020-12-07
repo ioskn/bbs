@@ -29,6 +29,15 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 </tr>
 	
 <tr>
+  <td> 07.12.2020 </td>
+  <td> Oliver Dürr   </td>
+  <td> MCMC </td>
+   <td>
+    <a href="files/bbs_mcmc.pdf">slides</a>
+  </td>
+</tr>
+
+<tr>
   <td> 30.11.2020 </td>
   <td> Matthias Hermann   </td>
   <td> Mutual Information </td>
