@@ -27,7 +27,16 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   <td> Title  </td>
   <td> Material </td>
 </tr>
-	
+
+<tr>
+  <td> 14.12.2020 </td>
+  <td> Dennis Grießer   </td>
+  <td> Deep Learning for 3d Detection </td>
+   <td>
+    <a href="files/deep_learning_3d_detection.pdf">slides</a>
+  </td>
+</tr>
+
 <tr>
   <td> 07.12.2020 </td>
   <td> Oliver Dürr   </td>
