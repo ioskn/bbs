@@ -27,6 +27,15 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   <td> Title  </td>
   <td> Material </td>
 </tr>
+	
+<tr>
+  <td> 25.02.2021 </td>
+  <td> Daniel Dold </td>
+  <td> Novel uncertainty models for active learning </td>
+  <td>
+    <a href="files/ActiveLearning.pdf">slides</a>
+  </td>
+</tr>
 
 <tr>
   <td> 14.12.2020 </td>
