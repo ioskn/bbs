@@ -29,6 +29,15 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 </tr>
 	
 <tr>
+  <td> 14.06.2021 </td>
+  <td> Daniel Dold </td>
+  <td> Introduction to Gaussian Process</td>
+  <td>
+    <a href="files/GaussianProcess.pdf">slides</a>
+  </td>
+</tr>
+	
+<tr>
   <td> 25.02.2021 </td>
   <td> Daniel Dold </td>
   <td> Novel uncertainty models for active learning </td>
