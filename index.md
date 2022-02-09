@@ -29,6 +29,15 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 </tr>
 	
 <tr>
+  <td> 09.02.2022 </td>
+  <td> Oliver Dürr </td>
+  <td> Variational Bayesian Inference</td>
+  <td>
+    <a href="files/TM-VI-BB_IOS.pdf">slides</a>
+  </td>
+</tr>
+
+<tr>
   <td> 05.11.2021 </td>
   <td> Matthias Hermann </td>
   <td> Mutual Information Neural Estimation</td>
