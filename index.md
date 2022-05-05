@@ -27,6 +27,16 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   <td> Title  </td>
   <td> Material </td>
 </tr>
+	https://github.com/ioskn/bbs/blob/master/files/
+	
+<tr>
+  <td> 04.05.2022 </td>
+  <td> Matthias Hermann </td>
+  <td> Vision Image Transformer Networks</td>
+  <td>
+    <a href="files/BrownbagOnVIT.pdf">slides</a>
+  </td>
+</tr>
 	
 <tr>
   <td> 09.02.2022 </td>
