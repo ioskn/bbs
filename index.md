@@ -28,7 +28,16 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
   <td> Material </td>
 </tr>
 	https://github.com/ioskn/bbs/blob/master/files/
-	
+
+<tr>
+  <td> 26.10.2023 </td>
+  <td> Oliver Dürr </td>
+  <td> LLMs a Deep Dive into the mechanic</td>
+  <td>
+    <a href="files/BBS_LMM.pdf">slides</a>
+  </td>
+</tr>
+
 <tr>
   <td> 04.05.2022 </td>
   <td> Matthias Hermann </td>
