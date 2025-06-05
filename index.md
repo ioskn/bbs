@@ -30,6 +30,15 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 	https://github.com/ioskn/bbs/blob/master/files/
 
 <tr>
+  <td> 05.06.2025 </td>
+  <td> Daniel Dold </td>
+  <td> Timeseries with Transformers </td>
+  <td>
+    <a href="files/TimeTransformer.pdf">slides</a>
+  </td>
+</tr>
+
+<tr>
   <td> 26.10.2023 </td>
   <td> Oliver Dürr </td>
   <td> LLMs a Deep Dive into the mechanic</td>
