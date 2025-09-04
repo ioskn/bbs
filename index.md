@@ -30,6 +30,15 @@ Eine ähnliche Veranstalltung gibt es an der ZHAW in Winterthur: https://tensorc
 	https://github.com/ioskn/bbs/blob/master/files/
 
 <tr>
+  <td> 9.9.2025 </td>
+  <td> Oliver Dürr </td>
+  <td> Groking Agents</td>
+  <td>
+    <a href="files/Grokking_Agents.pdf">slides</a>
+  </td>
+</tr>
+
+<tr>
   <td> 05.06.2025 </td>
   <td> Daniel Dold </td>
   <td> Timeseries with Transformers </td>
